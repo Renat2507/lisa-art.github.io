@@ -8,7 +8,7 @@ table
 {
 	table-layout: fixed; 
 	 width: auto;
-	font-size: 10px;
+	 font-size: 3vw;
 	 text-align: center;
 	color: white;
 	/*border: 2px solid salmon; */
@@ -71,7 +71,7 @@ color: white;
 
 h2 {
 color: white;
-font-size: 10px;
+font-size: 200%;
 } 
 
 p { font-size: 20px;  /* высота основного текста 16  */
@@ -82,7 +82,7 @@ color: white;
 }
 
 a { 
-  font-size: 10px;
+  font-size: 1vw;
 color: white;
 }
 
